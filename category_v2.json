@@ -2,7 +2,7 @@
   {
     "category_id": "classic",
     "category_name": "Classic",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
@@ -63,7 +63,7 @@
   {
     "category_id": "valentine",
     "category_name": "Valentine",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
@@ -87,7 +87,7 @@
   {
     "category_id": "character",
     "category_name": "Character",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
@@ -119,7 +119,7 @@
   {
     "category_id": "noel",
     "category_name": "Noel",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
@@ -167,7 +167,7 @@
   {
     "category_id": "superhero",
     "category_name": "Super Hero",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
@@ -215,7 +215,7 @@
   {
     "category_id": "freestyle",
     "category_name": "Freestyle",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
@@ -283,7 +283,7 @@
   {
     "category_id": "animal",
     "category_name": "Animal",
-    "thumb": "category_1606319218.jpg",
+    "thumb": "",
     "image_paint": [
       "1.png",
       "2.png",
